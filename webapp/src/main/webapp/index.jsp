@@ -20,6 +20,10 @@
     <input type="text" placeholder="Enter alternate-moible number" name="alternate-mobileno" id="alternate-mobileno" required>
     <br>
 
+    <label for="father-mobileno"><b>Enter father-mobile</b></label>
+    <input type="text" placeholder="Enter father-moible number" name="father-mobileno" id="father-mobileno" required>
+    <br>
+
 
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
