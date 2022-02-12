@@ -16,6 +16,10 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
+    <label for="secondmobile"><b>Enter mobile</b></label>
+    <input type="text" placeholder="Enter secondmoible number" name="secondmobile" id="secondmobile" required>
+    <br>
+
     <label for="alternate-mobileno"><b>Enter alternate-mobile</b></label>
     <input type="text" placeholder="Enter alternate-moible number" name="alternate-mobileno" id="alternate-mobileno" required>
     <br>
